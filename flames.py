@@ -7,3 +7,6 @@ for i in range(len(list1)):
             c = list1[i]
 
             print(c)
+            
+            
+            print(i)
